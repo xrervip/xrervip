@@ -1,16 +1,17 @@
-### Hi there 👋
+### HiHiHi there 👋
 
-<!--
-**xrervip/xrervip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on 🐦Cainiao-Alibaba Group, China (Java CRUD Engineer Intern but GDBL P4 )
+- 🌱 I’m currently learning J2EE ,DataBase ,C++, Go ,Distributed System (In particular order)
+- 👯 I’m looking to collaborate on 「技术交流」
+- 🤔 I’m looking for help with 「人生经验」
+- 💬 Ask me about 「人生态度」
+- 📫 How to reach me: [Telegram, 7*24h when not busy](https://t.me/HakuTouchfish) , or frzquantum@gmail.com
+- ⚡ Fun fact: Computer Engineering🖥️ ,Interaction Entertainment🕹️, Humanistic History⛪️,Geography🗺️, Military🪖, International Politics🦼, Aerospace🚀
+- 🏛️ Political Stance.: Liberté, Égalité, Fraternité
 
-Here are some ideas to get you started:
+## Top Languages
+ ![xrervip's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xrervip&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My Stats
+ ![xrervip's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrervip&count_private=true)
