@@ -10,8 +10,8 @@
 - 🏛️ Political Stance.: Liberté, Égalité, Fraternité
 
 ## Top Languages
- ![xrervip's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xrervip&count_private=true)
+ ![xrervip's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=f2quantum&count_private=true)
 
 
 ## My Stats
- ![xrervip's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrervip&count_private=true)
+ ![xrervip's GitHub stats](https://github-readme-stats.vercel.app/api?username=f2quantum&count_private=true)
